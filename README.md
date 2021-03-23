@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @BastienZim
+- 👀 I’m interested in Interpretable AI - XAI for short and overall the vast majority of AI breakthrough...
+- 🌱 I’m currently learning drift management methods and clever re-training policy...
+- 📫 How to reach me : bastienzim@hotmail.fr   with [CONTACT] in mail object ...
+
+<!---
+BastienZim/BastienZim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
